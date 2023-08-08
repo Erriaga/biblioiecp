@@ -1,2 +1,2 @@
 # biblioiecp
-Biblioteca virtual feita em PHP e MySQL
+Virtual library made in PHP and MySQL
